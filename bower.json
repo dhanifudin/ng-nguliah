@@ -1,0 +1,32 @@
+{
+  "name": "nguliah",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dhanifudin/nguliah",
+  "authors": [
+    "Dian Hanifudin Subhi <dhanifudin@gmail.com>"
+  ],
+  "description": "angular + kuliah",
+  "main": "index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular",
+    "slide"
+  ],
+  "license": "WTF",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.6",
+    "angular-route": "~1.4.6",
+    "debug": "visionmedia-debug#~2.2.0",
+    "marked": "~0.3.5",
+    "highlight.js": "highlightjs#~8.8.0"
+  }
+}

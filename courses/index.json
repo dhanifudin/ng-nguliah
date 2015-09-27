@@ -1,0 +1,11 @@
+[
+  {
+    "id": "gui",
+    "name": "Pemrograman GUI",
+    "desc": "Mata kuliah Pemrograman berbasis GUI"
+  }, {
+    "id": "spk",
+    "name": "Sistem Pendukung Keputusan",
+    "desc": "Mata kuliah Sistem Pendukung Keputusan"
+  }
+]

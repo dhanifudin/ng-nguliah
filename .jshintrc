@@ -1,0 +1,29 @@
+{
+  "asi": true,
+  "boss": true,
+  "curly": false,
+  "eqeqeq": false,
+  "eqnull": true,
+  "esnext": true,
+  "expr": true,
+  "forin": true,
+  "immed": true,
+  "lastsemic": true,
+  "laxbreak": true,
+  "multistr": true,
+  "newcap": false,
+  "noarg": true,
+  "node": true,
+  "nonew": true,
+  "plusplus": true,
+  "quotmark": "single",
+  "strict": true,
+  "undef": true,
+  "unused": true,
+  "validthis": true,
+  "predef": [
+    "angular",
+    "debug",
+    "marked"
+  ]
+}

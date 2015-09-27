@@ -1,0 +1,8 @@
+<div 
+  ng-repeat="s in slide.slides track by $index" 
+  ng-show="$index == slide.index" 
+  ng-bind-html="s.content"
+  >
+</div>
+<button ng-click="slide.prev()">Prev</button>
+<button ng-click="slide.next()">Next</button>
